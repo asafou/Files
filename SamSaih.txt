@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "Ad",
 	
-	"ironId": "14e5109c9",
+	"ironId": "",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
