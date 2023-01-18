@@ -18,9 +18,9 @@
 
 	"facebook": "Ad",
 	
-	"FanInter": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
-	"FanBanner": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
-	"FanReward": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
+	"FanInter": "",
+	"FanBanner": "",
+	"FanReward": "",
 
 	"unity": "Ad",
 	
