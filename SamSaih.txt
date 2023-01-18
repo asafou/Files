@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "Ad",
 	
-	"ironId": "17bd45a35",
+	"ironId": "",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
@@ -24,7 +24,7 @@
 
 	"unity": "Ad",
 	
-	"UnityAppId": "3913829",
+	"UnityAppId": "17bd45a35",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
